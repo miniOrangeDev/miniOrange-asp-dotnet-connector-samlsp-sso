@@ -1,0 +1,241 @@
+body{
+	background-color:#1d2b36!important;
+}
+/*******************Header***********************/
+.header{
+	height:60px;
+	width:auto;
+	border-bottom:1px solid #eee;
+	background-color:#fff!important;
+}
+ .logo {
+        background: url(..\images\sprites.png) no-repeat;
+        display: block;
+        width: 200px;
+        height: 80px;
+        margin: 0 0 14px 0;
+        padding-top: 20px;
+    }
+.row_custom{
+	margin-left:0px!important;
+	margin-right:0px!important;
+}
+.header .logout{
+	margin-top:27%;
+}
+.header .logout a{
+	color:#1d2b36;
+	font-size:16px;
+}
+.header .logout:hover a{
+	color:#777;
+	text-decoration:none;
+}
+.container{
+	width:auto!important;
+}
+/******************Login************************/
+.background_banner{
+	background:#79af59 url(../images/pricing_header_bg.png) repeat-x 0px 110px;
+	height:400px;
+	padding-top:10px;
+}
+.login_box{
+	border:1px solid #eee;
+	-webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+	background:white;
+	height:26em;
+	padding:0px!important;
+	display:block;
+}
+
+.background_banner h1{
+	font-size: 35px;
+	color: #fff;
+	text-shadow: 2px 2px #5D9840;
+	padding: 30px 0 10px 0;
+	margin: 0;
+}
+
+.background_banner h3{
+	font-size: 35px;
+	color: #fff;
+	text-shadow: 2px 2px #5D9840;
+	padding: 30px 0 10px 0;
+	margin: 0;
+}
+
+.text-padding{
+	padding-right:8%!important;
+}
+
+.btn-margin{
+	padding-left:10%;
+}
+.btn-submit{
+	padding-left:36%!important;
+	padding-right:37%!important;
+}
+.test-config{
+	//padding-top:5%!important;
+	padding-left:4%!important;
+	padding-right:4%!important;
+}
+.label-font{
+	font-family:'verdana', monospace;
+	font-size:15px;
+}
+/******************Alerts************************/
+.alert-custom{
+	border-radius:0px!important;
+	height:auto;
+	margin-bottom:0px!important;
+	padding:8px!important;
+	font-size:18px;
+	color:#128342;
+	font-weight:400!important;
+}
+
+.walter-custom{
+	border-radius:0px!important;
+	height:auto;
+	margin-bottom:0px;
+	font-size:18px;
+	color:#EA1118;
+	padding:8px!important;
+	font-weight:400!important;
+}
+button.errormsgclose{
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	-webkit-appearance: none;
+	margin-left:0px!important;
+	margin-top:0px;
+	float: right;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #fff;
+	opacity: .2;
+}
+.errorMessage li{
+	list-style:none;
+	margin-top:-1.8%;
+}
+.actionMessage li{
+	list-style:none;
+}
+button.altloginclose{
+	padding: 0;
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	-webkit-appearance: none;
+	margin-right:5px!important;
+	margin-top:2px;
+}
+
+.altloginclose{
+	float: right;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #000;
+	text-shadow: 0 1px 0 #fff;
+	opacity: .2;
+}
+#actionMessages{	
+	margin-left:-15px!important;
+	margin-right:-15px!important;
+}
+.glyph_pos{
+	padding:5px;
+}
+.actionMessage{
+	margin-top:-1.8%;
+}
+/**************Menu*******************/
+.sidebar {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 1000;
+	display: block;
+	padding: 20px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-color: #1d2b36;
+	min-height:87.5%!important;
+}
+.nav>li{
+	margin-left:-15px!important;
+	margin-right:-15px!important;
+}
+.nav>li>a{
+	color:#fff!important;
+}
+.nav>li:hover>a{
+	background-color:#eee!important;
+	color:#1d2b36!important;
+	font-weight:bold!important;
+}
+.nav>li>a.active{
+	background-color:#fff!important;
+	color:#1d2b36!important;
+	font-weight:bold;
+}
+/**************Configuration****************/
+.config_area{
+	background-color:#eee;
+	min-height:87.5%!important;
+}
+.heading{
+	padding-top:10px!important;
+	padding-bottom:10px!important;
+	font-size:16px;
+	font-family:arial;
+	font-weight:bold;
+}
+.config_area>.panel-default>.panel-heading{
+	background-color:#fff!important;
+}
+.col-md-btn{
+	margin-left:2%;
+}
+.btn-grey{
+	background:#c0c0c0!important;
+	border-color:#c0c0c0!important;
+}
+.btn-grey:hover{
+	background:#a8a8a8!important;
+	border-color:#a8a8a8!important;
+}
+.panel .panel-heading{
+	font-size:14px;
+	font-weight:bold;
+}
+#logoutdiv {
+	float: right;
+    height: 1px;
+}
+/**************Footer*******************/
+.footer {
+	text-align:center;
+	position:fixed;
+	left: 0em;
+	bottom:0px;
+    height: 20px;
+    width: 100%;
+    overflow:hidden;
+	background-color:#1d2b36;
+	z-index:100;
+}
+.footer > p{
+	color:#777;
+}
+
+.red {
+  color: red;
+}
