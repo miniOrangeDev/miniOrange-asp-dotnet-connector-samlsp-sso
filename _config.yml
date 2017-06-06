@@ -6,11 +6,5 @@ author: by:miniOrange # author name
 email: info@miniorange.com # author email
 description: "miniOrange ASP.NET Connector provides enterprise users Single Sign On (SSO) into your ASP.NET Web Application with 1 set of login credentials."
 keywords: "saml,asp.net,asp.net saml,asp dotnet saml,saml sp,saml sp initiated,asp dotnet,saml connector,asp.net connector,asp dotnet connector,dotnet saml connector,dotnet saml sp connector,asp.net saml sp sso connector,asp dotnet saml sp sso connector,asp dotnet connector saml sp sso,asp.net connector saml sp sso" # html meta keywords
-baseurl: "info-miniorange/miniOrange_asp_dotnet_connector_samlsp_sso" # the subpath of your site, e.g. /blog
-url: "https://github.com/info-miniorange/miniOrange_asp_dotnet_connector_samlsp_sso" # the base hostname & protocol for your site
-github: "info-miniorange/miniOrange_asp_dotnet_connector_samlsp_sso"
 
-exclude:
-  - LICENSE
-  - README.md
 
