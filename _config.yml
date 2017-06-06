@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 gems:  jekyll-seo-tag
 
 title: ASP.NET Connector SAML SP Single Sign-On(SSO) # blog title
