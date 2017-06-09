@@ -1,0 +1,166 @@
+body{
+	background-color:#fff!important;
+}
+/*******************Header***********************/
+.header{
+	height:60px;
+	width:auto;
+	border-bottom:1px solid #eee;
+	background-color:#fff!important;
+}
+.header .logo {
+	background:url(../images/sprite.png) no-repeat;
+	
+	display:block;
+	width:200px;
+	height:36px;
+	margin:0 0 14px 0;
+	padding-top:20px;
+}
+.row_custom{
+	margin-left:0px!important;
+	margin-right:0px!important;
+}
+/******************Login************************/
+.background_banner{
+	background:#79af59 url(../images/pricing_header_bg.png) repeat-x;
+	background-position:0px 110px;
+	height:400px;
+	padding-top:10px;
+}
+.login_box{
+	border:1px solid #eee;
+	-webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    margin:auto;
+	background:white;
+	height:26em;
+	padding:0px!important;
+	display:block;
+}
+
+.background_banner h1{
+	font-size: 35px;
+	color: #fff;
+	text-shadow: 2px 2px #5D9840;
+	padding: 30px 0 10px 0;
+	margin: 0;
+}
+
+.background_banner h3{
+	font-size: 35px;
+	color: #fff;
+	text-shadow: 2px 2px #5D9840;
+	padding: 30px 0 10px 0;
+	margin: 0;
+}
+
+.text-padding{
+	padding-right:8%!important;
+}
+.login-group{
+	padding-top:50px;
+}
+.btn-margin{
+	padding-left:10%;
+}
+.btn-submit{
+	padding-left:36%!important;
+	padding-right:37%!important;
+}
+.test-config{
+	padding-top:5%!important;
+	padding-left:4%!important;
+	padding-right:4%!important;
+}
+.label-font{
+	font-family:'verdana', monospace;
+	font-size:15px;
+}
+/******************Alerts************************/
+.alert-custom{
+	border-radius:0px!important;
+	height:auto;
+	margin-bottom:0px!important;
+	padding:8px!important;
+	font-size:18px;
+	color:#128342;
+	font-weight:400!important;
+}
+
+.walter-custom{
+	border-radius:0px!important;
+	height:auto;
+	margin-bottom:0px;
+	font-size:18px;
+	color:#EA1118;
+	padding:8px!important;
+	font-weight:400!important;
+}
+button.errormsgclose{
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	-webkit-appearance: none;
+	margin-left:0px!important;
+	margin-top:0px;
+	float: right;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #fff;
+	opacity: .2;
+}
+.errorMessage li{
+	list-style:none;
+}
+.actionMessage li{
+	list-style:none;
+}
+button.altloginclose{
+	padding: 0;
+	cursor: pointer;
+	background: transparent;
+	border: 0;
+	-webkit-appearance: none;
+	margin-right:5px!important;
+	margin-top:2px;
+}
+
+.altloginclose{
+	float: right;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 20px;
+	color: #000;
+	text-shadow: 0 1px 0 #fff;
+	opacity: .2;
+}
+#actionMessages{	
+	margin-left:0px!important;
+	margin-right:0px!important;
+    height: 68px;
+}
+.glyph_pos{
+	padding:5px;
+}
+/**************Footer*******************/
+.footer {
+	text-align:center;
+	position:fixed;
+	left: 0em;
+	bottom:0px;
+	padding-left:15em;
+    height: 20px;
+    width: 100%;
+    overflow:hidden;
+	background-color:#c0c0c0;
+	z-index:100;
+}
+.footer > p{
+	color:#777;
+}
+
+.red {
+  color: red;
+}
