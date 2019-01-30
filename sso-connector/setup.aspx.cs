@@ -111,7 +111,7 @@ namespace WebApplication1
 
             config.Save();
 
-            String x = "Configuration has been saved successfully<br>Please wait, It will take a minute for loading files.";
+            String x = "Configuration has been saved successfully,<br>Please wait, It will take a minute for loading configuration files.";
             Message.Text = x;
             DisplayData();
             //Call FormsAuthentication.RedirectFromLoginPage, which would set a cookie for validation
