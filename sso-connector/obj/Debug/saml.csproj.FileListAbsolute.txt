@@ -1,0 +1,41 @@
+C:\Users\Shubham\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Shubham\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Shubham\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Shubham\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\saml.csprojResolveAssemblyReference.cache
+C:\Users\Shubham\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Shubham\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\website\miniOrange-asp-dotnet-connector-samlsp-sso\saml_asp.net_connector\bin\WebApplication1.dll.config
+C:\website\miniOrange-asp-dotnet-connector-samlsp-sso\saml_asp.net_connector\bin\WebApplication1.dll
+C:\website\miniOrange-asp-dotnet-connector-samlsp-sso\saml_asp.net_connector\bin\WebApplication1.pdb
+C:\website\miniOrange-asp-dotnet-connector-samlsp-sso\saml_asp.net_connector\obj\Debug\WebApplication1.dll
+C:\website\miniOrange-asp-dotnet-connector-samlsp-sso\saml_asp.net_connector\obj\Debug\WebApplication1.pdb
+C:\inetpub\wwwroot\saml_asp.net_connector\bin\WebApplication1.dll
+C:\inetpub\wwwroot\saml_asp.net_connector\bin\WebApplication1.pdb
+C:\inetpub\wwwroot\saml_asp.net_connector\obj\Debug\WebApplication1.dll
+C:\inetpub\wwwroot\saml_asp.net_connector\obj\Debug\WebApplication1.pdb
+C:\ASP.NET-SSO-Connector\bin\WebApplication1.dll.config
+C:\ASP.NET-SSO-Connector\bin\WebApplication1.dll
+C:\ASP.NET-SSO-Connector\bin\WebApplication1.pdb
+C:\ASP.NET-SSO-Connector\obj\Debug\saml.csproj.CoreCompileInputs.cache
+C:\ASP.NET-SSO-Connector\obj\Debug\WebApplication1.dll
+C:\ASP.NET-SSO-Connector\obj\Debug\WebApplication1.pdb
+C:\inetpub\wwwroot\Saml_sso\bin\WebApplication1.dll.config
+C:\inetpub\wwwroot\Saml_sso\bin\WebApplication1.dll
+C:\inetpub\wwwroot\Saml_sso\bin\WebApplication1.pdb
+C:\inetpub\wwwroot\Saml_sso\obj\Debug\saml.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Saml_sso\obj\Debug\WebApplication1.dll
+C:\inetpub\wwwroot\Saml_sso\obj\Debug\WebApplication1.pdb
+C:\inetpub\wwwroot\sso_connector\bin\WebApplication1.dll.config
+C:\inetpub\wwwroot\sso_connector\bin\WebApplication1.dll
+C:\inetpub\wwwroot\sso_connector\bin\WebApplication1.pdb
+C:\inetpub\wwwroot\sso_connector\obj\Debug\saml.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\sso_connector\obj\Debug\WebApplication1.dll
+C:\inetpub\wwwroot\sso_connector\obj\Debug\WebApplication1.pdb
+C:\inetpub\wwwroot\sso_connector\obj\Debug\saml.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\sso-connector\bin\WebApplication1.dll.config
+C:\inetpub\wwwroot\sso-connector\bin\WebApplication1.dll
+C:\inetpub\wwwroot\sso-connector\bin\WebApplication1.pdb
+C:\inetpub\wwwroot\sso-connector\obj\Debug\saml.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\sso-connector\obj\Debug\saml.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\sso-connector\obj\Debug\WebApplication1.dll
+C:\inetpub\wwwroot\sso-connector\obj\Debug\WebApplication1.pdb
