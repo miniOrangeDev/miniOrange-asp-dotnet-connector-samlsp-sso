@@ -3,7 +3,7 @@
 -------------------------------------
 The miniOrange Authentication modules add SAML v2.0 support to ASP.NET and IIS web sites, allowing the web site to act as a SAML v2.0 Service Provider (SP). 
 The connector acts as a SAML Service Provider which can be configured to establish the trust between the connector and a SAML capable Identity Providers to securely authenticate the user to the ASP.NET application. 
-Now you can securely SSO to your ASP.NET application using credentials of identity provider like ADFS, Google Apps, Salesforce, Bitium, Centrify, OneLogin, PingFederate, Oracle and many more. <br><b>Step by step guide:</b> You can find step by step guide to configure SSO connector <a href="https://plugins.miniorange.com/asp-dot-net-saml-2-0-single-sign-sso-connector/">here</a>
+Now you can securely SSO to your ASP.NET application using credentials of identity provider like ADFS, Google Apps, Salesforce, Bitium, Centrify, OneLogin, PingFederate, Oracle and many more. <br><b>Step by step guide:</b> You can find step by step guide to configure SSO connector <a href="https://plugins.miniorange.com/asp-dot-net-saml-2-0-single-sign-sso-connector/">here</a>.
 <br/>
 <br/> ***Note***: 
 If you don’t find your IDP listed here, please contact us at info@miniorange.com or call us at +1 978 658 9387 and we can make changes to support your request.<br/>
